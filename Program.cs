@@ -15,6 +15,7 @@
             Console.WriteLine("My age is "+myAge);
             Console.WriteLine("My address is "+myAddress);
 
+            //Assignment 1.1.2
             int intValue1 = 10;
             int intValue2 = 20;
 
@@ -34,6 +35,10 @@
 
             float maxFloat = Math.Max(fltValue1, fltValue2);
             float minFloat = Math.Min(fltValue1, fltValue2);
+
+            //Assignment 1.1.3 and 4
+            //Another comment
+
         }
     }
 }
